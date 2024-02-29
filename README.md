@@ -1,3 +1,3 @@
-# Water-Quality-Monitoring
+# Water Quality monitoring
 <br>
-<h1>Hello Pratiksha Singh</h1>
+<p>Git: version control system is a tools that help to track changes in code github is vesion control system </p>
